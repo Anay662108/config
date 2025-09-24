@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Vinay kumar - Product owner"
     email: "{cipher}41f8a5dea576862de8425b7804b6dd6d7de5d42ea66e34ddd85050e381b8dbf7"
